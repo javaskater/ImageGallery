@@ -1,0 +1,15 @@
+#Wed May 30 18:10:04 CEST 2012
+eclipse.preferences.version=1
+encoding//batch/Curl.py=utf8
+encoding//batch/RestAccess.py=utf-8
+encoding//batch/XmlParsing.py=utf-8
+encoding//batch/testadh.py=utf8
+encoding//domain/Animateur.py=utf-8
+encoding//domain/Animation.py=utf-8
+encoding//domain/Extraction.py=utf-8
+encoding//domain/Randonnee.py=utf-8
+encoding//domain/Settings.py=utf-8
+encoding//persistence/ODBCDAO.py=utf-8
+encoding//utils/DateUtil.py=utf-8
+encoding//utils/Log.py=utf8
+encoding//utils/MAilSMTP.py=utf-8
